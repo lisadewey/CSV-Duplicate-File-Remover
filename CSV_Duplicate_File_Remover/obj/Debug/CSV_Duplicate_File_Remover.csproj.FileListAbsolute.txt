@@ -1,0 +1,7 @@
+C:\Users\lmdew\Desktop\MW-exercises\CSV_Duplicate_File_Remover\CSV_Duplicate_File_Remover\bin\Debug\CSV_Duplicate_File_Remover.exe.config
+C:\Users\lmdew\Desktop\MW-exercises\CSV_Duplicate_File_Remover\CSV_Duplicate_File_Remover\bin\Debug\CSV_Duplicate_File_Remover.exe
+C:\Users\lmdew\Desktop\MW-exercises\CSV_Duplicate_File_Remover\CSV_Duplicate_File_Remover\bin\Debug\CSV_Duplicate_File_Remover.pdb
+C:\Users\lmdew\Desktop\MW-exercises\CSV_Duplicate_File_Remover\CSV_Duplicate_File_Remover\obj\Debug\CSV_Duplicate_File_Remover.csprojAssemblyReference.cache
+C:\Users\lmdew\Desktop\MW-exercises\CSV_Duplicate_File_Remover\CSV_Duplicate_File_Remover\obj\Debug\CSV_Duplicate_File_Remover.csproj.CoreCompileInputs.cache
+C:\Users\lmdew\Desktop\MW-exercises\CSV_Duplicate_File_Remover\CSV_Duplicate_File_Remover\obj\Debug\CSV_Duplicate_File_Remover.exe
+C:\Users\lmdew\Desktop\MW-exercises\CSV_Duplicate_File_Remover\CSV_Duplicate_File_Remover\obj\Debug\CSV_Duplicate_File_Remover.pdb
